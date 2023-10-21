@@ -4,7 +4,7 @@ import docx2txt
 import docx
 
 # URL halaman website yang ingin disalin
-url = 'https://alanastorm.com/comparing-a-deno-and-node-js-hello-world-program/'
+url = 'https://www.scraping-bot.io/'
 
 # Lakukan permintaan HTTP ke URL
 response = requests.get(url)
